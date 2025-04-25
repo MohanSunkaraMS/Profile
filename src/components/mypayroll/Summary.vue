@@ -18,7 +18,6 @@ const values = [
   [2, "Bob", "bob@example.com"],
   [3, "Charlie", "charlie@example.com"]
 ];
-for 
 
 
 
